@@ -1,6 +1,5 @@
 # BRAIN-MRI-TUMOR-SEGMENTATION
 
-README
 MRI Reconstruction and Segmentation Pipeline (MATLAB)
 
 I developed a complete MRI processing pipeline in MATLAB, starting from raw k‑space data to the full 2D and 3D spatial brain MRI images. 
