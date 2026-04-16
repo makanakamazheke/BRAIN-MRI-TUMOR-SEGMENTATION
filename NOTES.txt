@@ -1,0 +1,17 @@
+Breakdown of the scripts and files submitted
+
+Task 1 - Name : task_1_frequency_domain.m
+
+Task 2 - Name : task_2_spatial_domain.m
+
+Task 3 - Name : task_3_kspace_filtering.m
+
+Task 3 Function - Name : kspace_filter_function.m
+
+Task 4 - Name : task_4_displaying_3D_volume.m
+
+Task 5 - Name : task_5_correcting_rotation.m
+
+Task 6 - Name : task_6_tumor_segmentation.m
+
+Task 6 Function - Name : dice_function.m
