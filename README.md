@@ -7,3 +7,28 @@ This included 2D inverse Fourier reconstruction of a single slice, circular lowâ
 
 I learnt the core concepts in MRI image reconstruction, general medical image processing, applied Fourier transforms from my physics courses, and binary segmentation.
 
+## Results
+
+### K-space Visualisation (Log Scale)
+<img src="IMAGES/k-space_visualisation.png" width="500">
+
+### Spatial Domain Reconstruction
+<img src="IMAGES/spatial.png" width="500">
+
+### Multi-Plane Reconstruction (Sagittal, Coronal, Axial)
+<img src="IMAGES/sagittal_coronal_axial.png" width="500">
+
+### Frequency Filtering (Low-pass vs High-pass)
+<img src="IMAGES/low_pass_high_pass_filtering.png" width="500">
+
+### Rotation Correction
+<img src="IMAGES/Corrected_Rotation.png" width="500">
+
+### Tumour Segmentation (Mask + Overlay)
+<img src="IMAGES/mask_overlayed_plot.png" width="500">
+
+### Overlayed MRI Slice
+<img src="IMAGES/overlayed_image.png" width="500">
+
+### 3D Tumour Visualisation
+<img src="IMAGES/3D_VOLUME_RENDERING_OF_TUMOR.png" width="500">
