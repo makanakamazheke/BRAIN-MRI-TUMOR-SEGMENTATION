@@ -1,6 +1,6 @@
 # MRI Reconstruction and Segmentation Pipeline (MATLAB)
 
-### 3D Tumour Rotation (Animated)
+### 3D Tumour Rotation (Animated). I created this to help explain the project. 
 <img src="IMAGES/tumor_rotation.gif" width="500">
 
 Grade : 94% 
